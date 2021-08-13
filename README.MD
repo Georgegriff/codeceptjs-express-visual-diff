@@ -5,7 +5,7 @@ Here is how you can achieve this.
 
 `npm install`
 
-Runt ests:
+Run tests:
 `npm test`
 
 Generate new screenshots:
